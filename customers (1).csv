@@ -1,0 +1,21 @@
+customer_id,name,gender,age,region
+C001,Alice Smith,F,32,NSW
+C002,Bob Johnson,M,45,VIC
+C003,Charlie King,M,28,QLD
+C004,Diana Clark,F,36,NSW
+C005,Eric Adams,M,52,WA
+C006,Fiona Baker,F,29,SA
+C007,George Lee,M,40,NSW
+C008,Hannah Scott,F,35,VIC
+C009,Ian Moore,M,48,WA
+C010,Julia Hall,F,33,QLD
+C011,Kevin Young,M,39,VIC
+C012,Laura Wood,F,27,NSW
+C013,Mark Turner,M,41,WA
+C014,Nina White,F,30,SA
+C015,Oscar Hill,M,50,QLD
+C016,Paula Green,F,31,NSW
+C017,Quentin Reed,M,44,VIC
+C018,Rachel Long,F,38,QLD
+C019,Sam King,M,46,SA
+C020,Tina Adams,F,34,WA

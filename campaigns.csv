@@ -1,0 +1,16 @@
+campaign_id,customer_id,platform,impressions,clicks,conversions,spend
+CAM001,C015,Google Ads,1031,34,4,42.03
+CAM002,C003,Google Ads,1129,57,5,85.29
+CAM003,C007,Instagram Ads,858,79,7,78.2
+CAM004,C017,Google Ads,946,96,2,46.42
+CAM005,C015,Facebook Ads,831,95,5,30.27
+CAM006,C003,Facebook Ads,938,80,2,95.88
+CAM007,C003,LinkedIn Ads,927,64,8,55.87
+CAM008,C010,Facebook Ads,1517,82,1,71.05
+CAM009,C013,Instagram Ads,1670,79,2,22.47
+CAM010,C011,Instagram Ads,1678,66,2,82.8
+CAM011,C003,Google Ads,1663,60,8,69.83
+CAM012,C017,Google Ads,1631,28,7,51.6
+CAM013,C017,Google Ads,988,80,2,43.33
+CAM014,C009,LinkedIn Ads,1266,89,8,96.01
+CAM015,C009,LinkedIn Ads,956,64,7,46.42
